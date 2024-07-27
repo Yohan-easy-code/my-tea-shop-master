@@ -1,0 +1,19 @@
+.instructions {
+    background-color: #5c946e;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    width: 30%;
+    max-height: 50vh;
+  }
+  
+  .instructions h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .instructions ol, .instructions p {
+    margin: 0;
+  }
+  

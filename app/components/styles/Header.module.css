@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo {
+    height: 10vh;
+  }
+  
+  .btnLogin {
+    padding: 2vh 5vh;
+    background-color: #8b5e3c;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .btnLogin:hover {
+    background-color: #734c31;
+  }
+  
